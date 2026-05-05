@@ -44,18 +44,18 @@ CSV File → Python (EDA & Cleaning) → SQL Server → Power BI Dashboard
       
 **Project Workflow**
 
-### Python — Data Cleaning & EDA
+**Python — Data Cleaning & EDA**
 - Loaded dataset and performed exploratory data analysis  
 - Handled missing values and removed irrelevant columns  
 - Converted target variable (Attrition: Yes/No → 1/0)  
 - Analyzed attrition across key factors like department, salary, age, and overtime  
 
-### SQL — Data Analysis
+**SQL — Data Analysis**
 - Wrote 11 business queries to analyze attrition patterns  
 - Used GROUP BY, CASE WHEN, and CTEs for insights  
 - Built a Risk Score model to identify high-risk employees  
 
-### Power BI — Dashboard
+**Power BI — Dashboard**
 - Created interactive dashboard with KPI metrics and visualizations  
 - Included filters for dynamic analysis  
 - Highlighted key business insights for decision-making
@@ -71,7 +71,7 @@ CSV File → Python (EDA & Cleaning) → SQL Server → Power BI Dashboard
 - Create career development programs for employees aged 18 to 25
 - Introduce work-life balance initiatives across all departments
 
-## Key Findings
+**Key Findings**
 
 - Overall Attrition: 16.12% (237 out of 1470 employees left)  
 - Highest Risk Department: Sales (21% attrition rate)  
