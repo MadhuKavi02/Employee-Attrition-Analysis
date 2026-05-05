@@ -1,5 +1,3 @@
-<img width="975" height="294" alt="image" src="https://github.com/user-attachments/assets/aa200720-5ffa-4c19-af6e-a3d2c0d21e14" /># Employee-Attrition-Analysis
-
 **Employee Performance & Attrition Analysis Dashboard**
 
 **Project Overview**
@@ -60,7 +58,8 @@ CSV File → Python (EDA & Cleaning) → SQL Server → Power BI Dashboard
 ### Power BI — Dashboard
 - Created interactive dashboard with KPI metrics and visualizations  
 - Included filters for dynamic analysis  
-- Highlighted key business insights for decision-making 
+- Highlighted key business insights for decision-making
+  <img width="1261" height="670" alt="image" src="https://github.com/user-attachments/assets/9f178340-d37b-4012-a76d-339f6e45477a" />
 
 **Recommendations**
 
