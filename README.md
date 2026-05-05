@@ -59,6 +59,7 @@ CSV File → Python (EDA & Cleaning) → SQL Server → Power BI Dashboard
 - Created interactive dashboard with KPI metrics and visualizations  
 - Included filters for dynamic analysis  
 - Highlighted key business insights for decision-making
+  
   <img width="1261" height="670" alt="image" src="https://github.com/user-attachments/assets/9f178340-d37b-4012-a76d-339f6e45477a" />
 
 **Recommendations**
@@ -81,6 +82,9 @@ CSV File → Python (EDA & Cleaning) → SQL Server → Power BI Dashboard
 - Work-Life Balance: Employees with poor work-life balance have significantly higher attrition
   
 Author
+
 Madhumitha Mathivanan
+
 madhumithamathi2002@gmail.com
+
 LinkedIn : https://www.linkedin.com/in/madhumithamathi07
